@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleAndroidToGit</string>
+    <string name="btn_msg">CLICK HERE&#8230;</string>
+</resources>
